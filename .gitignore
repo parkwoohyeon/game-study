@@ -1,0 +1,7 @@
+*.zip
+*.exe
+*.obj
+.vs/
+x64/
+Debug/
+Release/
